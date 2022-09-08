@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora quos nemo iusto aperiam quasi repellat pariatur recusandae quisquam deleniti fugit quia officiis accusamus laboriosam molestiae dolore optio dolorem perspiciatis, eveniet quibusdam voluptatibus. Nobis rem ut doloribus dicta delectus cupiditate voluptates autem veniam provident, sapiente animi quis nesciunt, incidunt tenetur. Maiores!",
+      "author": "Kagiso",
+      "id": 1
+    },
+    {
+      "title": "Hello There",
+      "body": "My name is Kagiso",
+      "author": "",
+      "id": 4
+    }
+  ]
+}
